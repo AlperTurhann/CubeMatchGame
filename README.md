@@ -1,2 +1,2 @@
 # CubeMatchGame
-Android cihazlar için küp eşleştirme oyunu
+Cube matching game for android devices.
